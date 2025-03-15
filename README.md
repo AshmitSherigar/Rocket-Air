@@ -43,7 +43,7 @@ This is a front-end project inspired by **[RocketAir](https://rocketair.com/)**,
 
 
 ## Screenshots
-[https://github.com/AshmitSherigar/Rocket-Air/blob/main/images/rocketair.png?raw=true]
+(https://github.com/AshmitSherigar/Rocket-Air/blob/main/images/rocketair.png?raw=true)
 
 ## Lessons Learned
 - **Advanced GSAP Techniques**: Implemented ScrollTrigger, hover effects, and timeline sequencing.
